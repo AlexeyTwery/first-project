@@ -1,4 +1,5 @@
 /e/gitrepo/first-project
+auto-py-to-exe
 
 1. Пройти пару уроков по Git.
 On branch master
